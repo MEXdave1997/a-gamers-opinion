@@ -3,7 +3,7 @@ module.exports = {
     title: `A Gamer's Opinion`,
     author: `David Madarigal-Hernandez`,
     description: `A blog presenting opinions on many topics.`,
-    // siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://a-gamers-opinion.netlify.com/`,
     social: {
       twitter: `MEXdave_gaming`,
     },
