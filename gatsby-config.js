@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `A Gamer's Opinion`,
+    title: `MEXdave's Opinion`,
     author: `David Madarigal-Hernandez`,
     description: `A blog presenting opinions on many topics.`,
     siteUrl: `https://a-gamers-opinion.netlify.com/`,
