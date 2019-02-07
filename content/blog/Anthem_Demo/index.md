@@ -25,7 +25,7 @@ Anthem is a game that is a looter-shooter trying to take everything good about t
 
 The biggest downside to ALL OF THIS? The publisher. **EA** has been known to hurt its own IPs and stomp on good titles, most recently with microtransactions, for YEARS. Titles like *The Sims*, *Mass Effect* (and particularly the last entry in said series), and the *Star Wars Battlefront* games have all suffered immensely because of the poor handling of this company. The [recent controversies with the handling of the Star Wars license in particular][EA Star Wars License] have given me very little hope for this games survival. The potential is there, but because of the publisher's history, I can only really see a rocky path ahead, and a very short life if they don't sell well.
 
-Anthem should be set to be a great game, and without a doubt, it will be a spectacular experience for both veterans of the looter-shooter genre of games and those who maybe want to delv into it for the first time. ONly time will really tell tho, how long this will last. We will just have to wait and see what **EA** would be willing to do with this fledgling IP, because we can only really fear the worst. And that, is what disappoints me the most.
+Anthem should be set to be a great game, and without a doubt, it will be a spectacular experience for both veterans of the looter-shooter genre of games and those who maybe want to delve into it for the first time. ONly time will really tell tho, how long this will last. We will just have to wait and see what **EA** would be willing to do with this fledgling IP, because we can only really fear the worst. And that, is what disappoints me the most.
 
 ***EDIT***: *Added last paragraph and fixed grammar issues Feb 6, 2019 - 11:36 PM*
 
