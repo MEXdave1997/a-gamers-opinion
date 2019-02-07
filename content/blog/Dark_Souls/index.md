@@ -3,6 +3,8 @@ title: 'Dark Souls on Switch: Is It Worth?'
 date: '2019-01-28'
 ---
 
+![Dark Souls Logo](./dark_souls_remastered_logo.jpg)
+
 ***Will the Age of Fire be rekindled, or will the Darkness take over and extinguish that flame?*** Such was the question in *Dark Souls*, the legendary game developed by **From Software**, published by **Bandai Namco**, and originally released in October 2011 for the Playstation 3 and Xbox 360, with a release just a year later for Windows PCs. Currently, the series has received a Remaster of sorts, updating to higher resolution textures and fixing the plethora of bugs that were present at the time of release. This version, dubbed *Dark Souls: Remastered*, was release for the Playstation 4 and Xbox 1 on May of 2018. There was also one more version of the game, the version for the Nintendo Switch, which hit store shelves and the Nintendo E-Shop on October 20, 2018. And so, with the release of the game on the Nintendo Switch, I thought I would take a look and see whether or not it stands as a worthy variant of this legendary RPG.
 
 The world of Lordran is one with a very foggy past. The world before Lordran was a world ruled by Dragons, great being with stone scales that made them practically immortal, It wasn't until Lord Gwyn and his allies, who found the Lord Souls, that they were able to overthrow the Dragons and establish the age of fire. You awake sometime after that event, to a world that has fallen to destruction and decay. You're goal is to find out explore the world and discover the truth about the Hollow, or the enemies that litter the land and seek to kill you.

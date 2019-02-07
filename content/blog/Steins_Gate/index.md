@@ -2,6 +2,9 @@
 title: 'The Deal with Steins;Gate'
 date: '2018-08-13'
 ---
+
+![Steins;Gate Logo](./steins_gate_logo.png)
+
 Well, here we are. Review two! For this review, I will talk about a series that I have been hooked on for a good couple months now. The show, called Stein's;Gate, is part of a larger Sci-Adv universe, which explores conspiracy theories and the science behind it. This series in particular talks about the science of time-travel and the John Titor conspiracy.
 
 # Story

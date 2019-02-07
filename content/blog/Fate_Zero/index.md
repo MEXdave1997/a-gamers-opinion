@@ -2,6 +2,9 @@
 title: 'What the Deal is With Fate/Zero'
 date: '2018-07-22'
 ---
+
+![Fate/Zero Logo](./fate_zero_logo.png)
+
 There are very few how as of late that have garnered my attention. Some,
 because they have tropes that I have grown tired of. Others, because I can’t
 really identify with the characters. Almost always, its due to the fact that these

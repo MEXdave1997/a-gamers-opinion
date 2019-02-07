@@ -2,6 +2,9 @@
 title: 'What is the Deal with Steins:Gate Zero?'
 date: '2019-01-29'
 ---
+
+![Steins;Gate Zero Logo](./steins_gate_zero_logo.jpg)
+
 Well, here we are. coming back to one of my favorite series. This one being a sequel to my favorite must watch *Steins;Gate.*
 However, this show needs a lot of work, in my opinion, and while there are definitely some pretty good moments in the show, there is a lot to be desired in how they handled the narrative.
 

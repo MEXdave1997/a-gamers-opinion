@@ -3,6 +3,8 @@ title: 'Super Smash Brothers Ultimate: A Comprehensive Look'
 date: '2019-02-01'
 ---
 
+![Smash Bros Ultimate Logo](./smash_bros_ultimate_logo.png)
+
 Now that it has been about 2 months since the release of *Super Smash Brothers: Ultimate* for the Nintendo Switch, I feel it is necessary to write a comprehensive review on the game itself. For this game in particular, I will really only look at gameplay feel, roster choices, and the overall feel of the game.
 
 Firstly, the gameplay. For this iteration of Smash Bros, it is very well done. It is very well designed for the portability of the Switch, allowing you to use the Joycon Controllers in a very dynamic way. Want to go completely mobile and fight Ike on the train? Handheld Mode is very comfortable to use. Don't like Handheld mode, but still want to play solo? Detatch the Joycons and use them away from the screen for a more ergonomic feel. Have a friend or friends that you want to play a couple rounds with? Use each Joycon as a seperate controller, with support for up to 8 players in a single match. Don't like the Joycons? Connect a Switch Pro Controller and use that instead for a more traditional gamepad feel. Really, the options are multiple, with choices available for a variety of playstyles.
