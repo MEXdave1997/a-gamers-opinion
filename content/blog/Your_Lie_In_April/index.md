@@ -71,3 +71,5 @@ The story of the boy, who meets a girl that saves him from himself is usually a 
 An approach that emphasizes his own self-discovery and his move to change. 
 That is what makes this show a must-watch for me, and it is why I will continue to recommend it.
 
+If you have any comments on this article, any I've written in the past, suggestions for future articles, or just want to chat, I can be reached on Twitter with the link at the footer.
+
