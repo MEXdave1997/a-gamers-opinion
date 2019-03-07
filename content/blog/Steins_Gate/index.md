@@ -8,7 +8,7 @@ date: '2018-08-13'
 Well, here we are. Review two! For this review, I will talk about a series that I have been hooked on for a good couple months now. The show, called Stein's;Gate, is part of a larger Sci-Adv universe, which explores conspiracy theories and the science behind it. This series in particular talks about the science of time-travel and the John Titor conspiracy.
 
 # Story
-Where to start? The story is a wild ride. This is another series based off a light novel, which also has quite a few endings. However, for the case of succinctness, we will stick to the show's timeline, as the events in the anime are fairly easy to go over.
+Where to start? The story is a wild ride. This is another series based off a visual novel, which also has quite a few endings. However, for the case of succinctness, we will stick to the show's timeline, as the events in the anime are fairly easy to go over.
 
 The anime starts by introducing the series two main characters, Okabe Rintarou and Mayuri Shina. The year is 2010, Okabe is a young university student, and childhood friend to high school student Mayuri. The story begins with a lecture on time travel, and Okabe vehemently pointing out similarities to theories brought up by John Titor, a man who mysteriously appeared on US forums in the year 2000.
 
